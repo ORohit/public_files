@@ -1,7 +1,7 @@
-Origin,Destination
-"San Antonio, TX","Atlanta, GA"
-"San Antonio, TX","San Diego, CA"
-"Atlanta, GA","San Diego, CA"
-"San Diego, CA","Nashville, TN"
-"Portland, OR","Atlanta, GA"
-"San Diego, CA","Portland, OR"
+ID,Origin_City,Destination_City
+1,"San Antonio, TX","Atlanta, GA"
+2,"San Antonio, TX","San Diego, CA"
+3,"Atlanta, GA","San Diego, CA"
+4,"San Diego, CA","Nashville, TN"
+5,"Portland, OR","Atlanta, GA"
+6,"San Diego, CA","Portland, OR"
