@@ -1,7 +1,7 @@
-ID,Origin_City,Destination_City
-1,"San Antonio, TX","Atlanta, GA"
-2,"San Antonio, TX","San Diego, CA"
-3,"Atlanta, GA","San Diego, CA"
-4,"San Diego, CA","Nashville, TN"
-5,"Portland, OR","Atlanta, GA"
-6,"San Diego, CA","Portland, OR"
+Origin City,Destination City,Load Type
+"San Antonio, TX","Atlanta, GA",LTL
+"San Antonio, TX","San Diego, CA",TL
+"Atlanta, GA","San Diego, CA",LTL
+"San Diego, CA","Nashville, TN",LTL
+"Portland, OR","Atlanta, GA",TL
+"San Diego, CA","Portland, OR",TL
